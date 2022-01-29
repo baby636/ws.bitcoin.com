@@ -35,7 +35,7 @@
     "express-rate-limit": "^2.11.0",
     "helmet": "^3.12.1",
     "jade": "~1.11.0",
-    "level": "^4.0.0",
+    "level": "^5.0.0",
     "mkdirp": "^0.5.1",
     "mocha": "6.1.4",
     "mongoose": "^4.10.5",
@@ -50,7 +50,7 @@
     "strftime": "^0.10.0",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^3.8.0",
-    "zeromq": "^4.6.0"
+    "zeromq": "^5.2.5"
   },
   "devDependencies": {
     "@types/express": "^4.16.0",
