@@ -62,7 +62,7 @@
     "fs-extra": "^7.0.0",
     "nock": "^10.0.0",
     "node-mocks-http": "^1.7.0",
-    "nodemon": "^1.18.1",
+    "nodemon": "^2.0.0",
     "nyc": "^11.6.0",
     "pandacash-core": "^0.1.0",
     "prettier": "^1.14.2",
